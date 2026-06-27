@@ -164,7 +164,7 @@ export const translations = {
       ],
     },
     hero: {
-      title: "Travel Insurance",
+      title: "Trip Insurance",
       subtitle: "A policy that really works",
       where: "Where to?",
       getQuote: "Get a quote",
